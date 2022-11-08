@@ -1,2 +1,3 @@
 # Lab 6
-[GitHub Pages](https://bsnow1400.github.io/test-repo/)
+[Recipe Cards](https://bsnow1400.github.io/test-repo/)  
+This lab was completed alone
