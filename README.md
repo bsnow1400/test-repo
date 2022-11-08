@@ -1,3 +1,9 @@
 # Lab 6
-[Recipe Cards](https://bsnow1400.github.io/test-repo/)  
-This lab was completed alone
+
+Bennett Zhang
+
+A14863774
+
+I am working solo.
+
+[GitHub Pages](https://bennett-zhang.github.io/Lab6_Starter/)
